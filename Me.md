@@ -1,5 +1,7 @@
 <img width="864" height="1184" alt="Generated Image October 14, 2025 - 9_28PM" src="https://github.com/user-attachments/assets/360da18a-d477-4cac-bcf6-a1ff4db3d996" />
 
+**Visit me** - [deimmortales.vercel.app](https://deimmortales.vercel.app/)
+
 # Greeting, my fellow homo-sapaniens! 🍾
 
 I'm **Navneeth K S** from Bengaluru, India. Feel free to check out this page 🍨
@@ -29,5 +31,5 @@ I'm **Navneeth K S** from Bengaluru, India. Feel free to check out this page �
 
 ## More About Myself 😶‍🌫️
 - **Anime**: One Piece fan 🏴‍☠️
-- **Non-fiction**: Harry Potter 🪄, Percy Jackson ⚡
+- **Fictional**: Harry Potter 🪄, Percy Jackson ⚡
 - **Sports**: Badminton 🏸, Table Tennis 🏓
