@@ -2,7 +2,7 @@
 
 **Visit me** - [deimmortales.vercel.app](https://deimmortales.vercel.app/)
 
-# Greeting, my fellow homo-sapaniens! 🍾
+# Greeting, my fellow homo-sapiens! 🍾
 
 I'm **Navneeth K S** from Bengaluru, India. Feel free to check out this page 🍨
 
