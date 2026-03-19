@@ -1,6 +1,6 @@
 <img width="864" height="1184" alt="Generated Image October 14, 2025 - 9_28PM" src="https://github.com/user-attachments/assets/360da18a-d477-4cac-bcf6-a1ff4db3d996" />
 
-**Visit me** - [deimmortales.vercel.app](https://deimmortales.vercel.app/)
+**Visit me** - [ksnavneeth.netlify.app](https://ksnavneeth.netlify.app/)
 
 # Greeting, my fellow homo-sapiens! 🍾
 
